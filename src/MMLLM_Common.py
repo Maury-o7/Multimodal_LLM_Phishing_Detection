@@ -23,7 +23,7 @@ class InputDataset(Enum):
     Pert_Text = 'Pert-Text'
     Pert_Typo = 'Pert-Typo'
 
-str_input_dir_base = '../input/'
+str_input_dir_base = '../data/'
 str_output_dir_base = '../output/'
 
 dict_system_prompt_path = {
